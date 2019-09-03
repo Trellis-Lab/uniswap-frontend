@@ -1,0 +1,2 @@
+uniswap_exchange=0xec70344fe5cdd0ac36599043c691361be30e9add
+uniswap_factory=0xba3f5204de791221185c87b5068cbe2fc5401fd6
